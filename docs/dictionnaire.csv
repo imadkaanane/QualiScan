@@ -1,0 +1,10 @@
+﻿table;grain;colonne;type;unite_ou_sens;manquants
+pieces;pièce mesuré;piece_id;int64;Identifiant fictif;0
+pieces;pièce mesuré;longueur;float64;mm;0
+pieces;pièce mesuré;largeur_gauche;float64;mm;0
+pieces;pièce mesuré;largeur_droite;float64;mm;0
+pieces;pièce mesuré;epaisseur_haute;float64;mm;0
+pieces;pièce mesuré;epaisseur_basse;float64;mm;1404
+pieces;pièce mesuré;entraxe;float64;mm;0
+pieces;pièce mesuré;lot_id;int64;Identifiant fictif;0
+pieces;pièce mesuré;est_defaut;int64;1=faux simulé, 0=conforme simulé;0
